@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 # define M 1000000007
+// Something is diffrient!
 
 template <typename T>
 class Stack{ 
